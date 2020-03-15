@@ -11,8 +11,7 @@ This was really a fun experiment for myself to see how different network cards, 
 Dennis Chow dchow[AT]xtecsystems.com
 www.scissecurity.com*
 
-![example1]
-(https://github.com/dc401/TCPOptionsDataExfil/raw/master/TCPOptions%20Data%20Exfil%20Usage%201.png)
 
-![example2]
-(https://github.com/dc401/TCPOptionsDataExfil/raw/master/TCPOptions%20Data%20Exfil%20Example%20Dump%20Log%20and%20Runtime.PNG)
+![example1](https://github.com/dc401/TCPOptionsDataExfil/raw/master/TCPOptions%20Data%20Exfil%20Usage%201.png)
+
+![example2](https://github.com/dc401/TCPOptionsDataExfil/raw/master/TCPOptions%20Data%20Exfil%20Example%20Dump%20Log%20and%20Runtime.PNG)
