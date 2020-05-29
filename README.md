@@ -1,3 +1,6 @@
+This is part of a tutorial written on Medium, please follow the link below for more context.
+**[Practical Insider Threat Penetration Testing Cases with Scapy (Shell Code and Protocol Evasion)](https://medium.com/swlh/practical-insider-threat-penetration-testing-cases-with-scapy-shell-code-and-protocol-evasion-e18d43d50da)**
+
 # TCPOptionsDataExfil
 Experimental scripts using Python 3.x and Scapy to transmit data to closed (or open) ports between hosts using only TCP Options
 
